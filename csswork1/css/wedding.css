@@ -1,0 +1,1228 @@
+body
+{
+	margin:0px;
+	padding:0px;
+}
+
+.w1
+{
+	position:fixed;
+	width:100%;
+	height:50px;
+	background:white;	
+}
+.image1
+{
+	
+	width:100%;
+	height:700px;
+	margin-top:0px;
+}
+.image2
+{
+	
+	width:300px;
+	height:300px;
+	margin-top:-550px;
+	margin-left:500px;
+}
+
+.menu
+{
+	position:relative;
+	background:white;
+	width:800px;
+	height:50px;
+	margin-top:-200px;
+	margin-left:500px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:19px;
+}
+ul
+{
+	
+	list-style-type:none;
+	overflow:hidden;
+	position:fixed;
+	width:100%;
+	height:50px;
+	
+}
+li
+{
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	color:#4c4c4c;
+	padding:2px 10px;
+	display:block;
+	height:15px;
+	letter-spacing:2px;
+	
+}
+li a:hover
+{
+	color:#f24d5f;
+}
+.image3
+{
+	position:relative;
+	width:200px;
+	height:200px;
+	background:white;
+	border-radius:100px;
+	
+}
+	
+.w2
+{
+	position:relative;
+	float:left;
+	width:100%;
+	height:400px;
+	background:#C36;
+	margin-top:0px;
+}
+	
+.image4
+{
+	width:100%;
+	height:500px;
+	margin-top:-30px;
+}
+.image5
+{
+	
+	width:320px;
+	height:290px;
+	margin-top:-610px;
+	margin-left:500px;
+}
+.w4
+{
+	
+	width:300px;
+	height:300px;
+	background:red;
+	margin-top:-400px;
+	margin-left:20px;
+}
+.w5
+{
+	
+	width:400px;
+	height:200px;
+	background:blue;
+	margin-top:-250px;
+	margin-left:400px;
+}
+.w6		
+
+{
+	
+	width:300px;
+	height:300px;
+	background:red;
+	margin-top:-300px;
+	margin-left:900px;
+}
+.im1
+{
+	margin-top:-80px;
+	margin-left:-21px;
+	
+}
+.w5 p
+{
+	text-align:justify;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+}
+.im2
+{
+	margin-top:-50px;
+	margin-left:-5px;
+	
+}
+h1:hover
+{
+	color:#f24d5f;
+}
+p
+{
+	color:#5a5a5a;
+}
+.w7
+{
+	
+	width:300px;
+	height:250px;
+	background:white;
+	margin-top:80px;
+	margin-left:100px;
+}
+.w7 p
+{
+	
+	text-align:justify;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	
+}
+.w8
+{
+	
+	width:300px;
+	height:250px;
+	background:white;
+	margin-top:-200px;
+	margin-left:500px;
+}
+.s2
+{
+	margin-left:100px;
+	}
+.w9
+{
+	
+	width:300px;
+	height:250px;
+	background:white;
+	margin-top:-300px;
+	margin-left:400px;
+}
+
+.w9 p
+{
+	
+	text-align:justify;
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+}
+	
+.w10
+{
+	margin-left:-500px;
+	width:1349px;
+	margin-top:50px;
+	background:url(../../Wedding/assets/images/section-bg.jpg);
+	height:800px;
+	
+}
+
+.trans
+{
+	
+	width:137%;
+	background-color:rgba(0,0,0,0.5);
+	height:800px;
+    top:300px;
+	margin-left:-500px;
+	
+}
+.trans h2
+{
+	padding-top:400px;
+	text-align:center;
+	padding-left:450px;
+	font-size:50px;
+	font-weight:100;
+	
+}
+.w11
+{
+	width:100%;
+	height:700px;
+	background:url(../../Wedding/assets/images/shado-bg2.png);
+	margin-top:-80px;
+}
+.w11 h2
+{
+	text-align:center;
+	padding:100px;
+	color:black;
+	font-weight:100;
+	letter-spacing:5px;
+	
+}
+
+.w12 ul
+{
+	position:static;
+	list-style-type:none;
+	margin-top:-450px;
+	margin-left:150px;
+	padding:0px;
+	background-color:white;
+	overflow:hidden;
+	width:80%;
+	border-bottom:1px solid #d0d0d0;
+}
+.w12 li
+{
+	float:left;
+}
+.w12 li
+{
+	text-align:center;
+	text-decoration:none;
+	font-size:25px;
+	padding:14px 16px;
+	color:#acacac;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:130px;
+	
+}
+	
+.w12 a:hover	
+{
+	color:black;
+	border-bottom: 1px solid #f0394d;
+}
+	
+.i1
+{
+	margin-left:50px;
+}
+	
+	.i2
+{
+	margin-left:50px;
+}
+.i3
+{
+	margin-left:50px;
+}
+.i4
+{
+	margin-left:80px;
+}
+	
+	
+.w13
+{
+	width:80%;
+	height:240px;
+	background:white;
+	margin-left:150px;
+	border-bottom:1px solid #d0d0d0;
+
+}
+.heart1
+{
+	padding-top:30px;
+	padding-left:120px;
+}
+.heart2
+{
+	padding-left:240px;
+}
+.heart3
+{
+	padding-left:220px;
+}
+.heart4
+{
+	padding-left:250px;
+}
+.x1
+{
+	width:22%;
+	height:200px;
+	background:white;
+}
+.x2
+{
+	width:22%;
+	height:200px;
+	float:left;
+	background:white;
+	margin-left:270px;
+	margin-top:-200px;
+}
+.x3
+{
+	width:22%;
+	height:200px;
+	float:left;
+	background:white;
+	margin-left:530px;
+	margin-top:-200px;
+}
+.x4
+{
+	width:22%;
+	height:200px;
+	float:left;
+	background:white;
+	margin-left:800px;
+	margin-top:-200px;
+}
+
+.x1 h3
+{
+	text-align:center;
+	color:black;
+	font-size:30px;
+	font-weight:100;
+}
+
+.x1 p
+{
+	text-align:justify;
+	font-size:20px;
+	padding-left:30px;
+}
+
+.x2 h3
+{
+
+	text-align:center;
+	color:black;
+	font-size:30px;
+	font-weight:100;
+	margin-top:0px;
+}
+.x2 p
+{
+	text-align:justify;
+	font-size:20px;
+	padding-left:30px;
+}
+.x3 h3
+{
+
+	text-align:center;
+	color:black;
+	font-size:30px;
+	font-weight:100;
+	margin-top:0px;
+}
+.x3 p
+{
+	text-align:justify;
+	font-size:20px;
+	padding-left:30px;
+}
+.x4 h3
+{
+
+	text-align:center;
+	color:black;
+	font-size:30px;
+	font-weight:100;
+	margin-top:0px;
+}
+.x4 p
+{
+	text-align:justify;
+	font-size:20px;
+	padding-left:30px;
+}
+.gallery
+{
+	width:125%;
+	height:1150px;
+	background:#ebebeb;
+	margin-left:-150px;
+}
+.gallery h3
+{
+	
+	text-align:center;
+	color:black;
+	font-weight:100;
+}
+.gallery h4
+{
+	letter-spacing:5px;
+	text-align:center;
+	color:black;
+	font-weight:100;
+	
+}
+.z1 ul
+{
+	position:static;
+	list-style-type:none;
+	margin-top:-975px;
+	margin-left:50px;
+	background:#ebebeb;
+	padding:0px;
+	width:95%;
+	border-bottom:1px solid #d0d0d0;
+	
+}
+.z1 li
+{
+	float:left;
+}
+.z1 li
+{
+	text-align:center;
+	text-decoration:none;
+	font-size:25px;
+	padding:14px 16px;
+	color:#acacac;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:100px;
+	
+}
+	
+.pic1
+{
+	width:350px;
+	height:550px;
+	background:pink;
+}
+.pic2
+{
+	width:350px;
+	height:550px;
+	background:pink;
+	margin-left:380px;
+	margin-top:-550px;
+}
+
+
+
+.pic3
+{
+	width:350px;
+	height:650px;
+	background:pink;
+	margin-left:760px;
+	margin-top:-550px;
+}
+
+.pict1
+{
+	
+	border:15px solid white;
+}
+.pict2
+{
+	border:15px solid white;
+}	
+.pict3
+{
+	border:15px solid white;
+}	
+.pict4
+{
+	border:15px solid white;
+}	
+	
+.pict5
+{
+	border:15px solid white;
+}	
+.z2
+{
+	width:125%;
+	height:500px;
+	background:rgba(0,0,0,0.7);
+	margin-top:250px;
+	margin-left:-150px;
+}
+	
+.pictr1
+{
+	width:700px;
+	height:500px;
+	margin-left:648px;
+	background-size:cover;
+}
+	
+.z3
+{
+	width:125%;
+	height:500px;
+	background:white;
+	margin-left:-150px;
+	margin-top:-25px;
+}
+	
+.z4
+{
+	width:300px;
+	height:350px;
+	background:#122d48;
+	margin-left:500px;
+}
+	
+.y
+{
+	width:150px;
+	height:40px;
+	background:#f0394d;
+	margin-left:75px;
+	margin-top:-219px;
+}
+.y h2
+{ 
+	text-align:center;
+	font-size:30px;
+	font-weight:100;
+}
+	
+.y p
+{
+	
+	font-size:18px;
+	font-weight:100;
+	color:white;
+}
+.map
+{
+	margin-left:30px;
+}
+.z3 h5
+{
+	margin-top:50px;
+	margin-left:100px;
+	font-size:30px;
+	font-weight:100;
+	color:#000;
+}
+	
+table,td
+{
+	width:30%;
+	margin-left:30px;
+	font-size:20px;
+	
+}
+td
+{
+	border-bottom:1px solid #c2c2c2;
+	color:#000;
+	font-weight:300;
+	
+}	
+	
+.z3 h6
+{
+	color:black;
+	font-size:30px;
+	margin-left:900px;
+	margin-top:-113px;
+}
+.rsvp
+{
+	width:90%;
+	height:700px;
+	background:url(../../Wedding/assets/images/form-2-bg.png);
+	background-repeat:no-repeat;
+	margin-left:150px;
+}
+
+
+
+.rsvp h3
+{
+	color:#939393;
+	font-size:80px;
+	margin-left:250px;
+	margin-top:-750px;
+	
+}
+.rsvp p
+{
+	font-family:"Times New Roman", Times, serif;
+	font-size:23px;
+	margin-left:150px;
+	font-weight:15;
+	margin-top:-70px;
+	
+}
+
+
+.f1
+{
+	width:20%;
+	height:30px;
+	border:hidden;
+}
+.form1
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	box-shadow:0px 0px 20px lightgrey;
+	width:180%;
+	height:40px;
+	margin-top:23px;
+	margin-left:150px;
+	box-sizing:border-box;
+}
+.f2
+{
+	width:20%;
+	height:30px;
+	border:hidden;
+}
+	
+.form2
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	box-shadow:0px 0px 20px lightgrey;
+	width:180%;
+	height:40px;
+	margin-top:70px;
+	margin-left:150px;
+	box-sizing:border-box;
+}	
+	
+
+.numb
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	box-shadow:0px 0px 20px lightgrey;
+	width:15%;
+	height:40px;
+	margin-top:100px;
+	margin-left:150px;
+	box-sizing:border-box;
+	color:grey;
+}
+.numb1
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	box-shadow:0px 0px 20px lightgrey;
+	width:16%;
+	height:40px;
+	margin-top:-38px;
+	margin-left:350px;
+	box-sizing:border-box;
+	color:grey;
+}
+.f5
+{
+		
+	width:20%;
+	height:30px;
+
+}
+
+.form3
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	box-shadow:0px 0px 20px lightgrey;
+	width:180%;
+	height:150px;
+	margin-top:40px;
+	margin-left:150px;
+	box-sizing:border-box;
+}	
+.f6
+{
+		
+	width:20%;
+	height:30px;
+
+}
+.sub
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	width:50%;
+	height:40px;
+	margin-top:200px;
+	margin-left:295px;
+	box-sizing:border-box;
+	background:#f24d5f;
+	border-radius:1000px;
+	color:white;
+	font-size:18px;
+}
+
+.q1
+{
+	margin-left:-500px;
+	width:1349px;
+	margin-top:130px;
+	background:url(../../Wedding/assets/images/section-bg.jpg);
+	height:800px;
+	margin-left:-150px;
+	
+}
+
+.trans1
+{
+	
+	width:137%;
+	background-color:rgba(0,0,0,0.5);
+	height:800px;
+    top:300px;
+	margin-left:-500px;
+	
+}
+.trans1 h2
+{
+	font-size:25px;
+	font-weight:100;
+	margin-left:400px;
+	padding-top:200px;
+}
+.timg
+{
+	width:100px;
+	height:100px;
+	margin-top:-550px;
+	margin-left:600px;
+	border-radius:100px;
+}
+.q1 p
+{
+	font-size:12px;
+	color:white;
+	margin-top:-510px;
+	margin-left:720px;
+}
+.q2
+{
+	width:125%;
+	height:900px;
+	background:url(../../Wedding/assets/images/shado-bg.png);
+	margin-left:-150px;
+	margin-top:-80px;
+}
+.q2 h3 
+{
+	color:black;
+	margin-left:500px;
+	padding-top:180px;
+	font-weight:100;
+}
+.q2 h4 
+{
+	color:black;
+	margin-left:550px;
+	letter-spacing:5px;
+	font-weight:100;
+}
+
+.g1
+{
+	margin-left:100px;
+	margin-top:50px;
+}
+.g2
+{
+	margin-left:30px;
+}
+
+.g3
+{
+	margin-left:30px;
+}
+.g4
+{
+	margin-left:30px;
+}
+.b1
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:130px;
+	margin-top:20px;
+	border:1px solid lightgrey;
+	color:black;
+	
+	
+}
+.b2
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:250px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+.b3
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:420px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+.b4
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:540px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+.b5
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:860px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+.b6
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:740px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+.b7
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:1040px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+
+.b8
+{
+	width:100px;
+	height:50px;
+	background:white;
+	margin-left:1160px;
+	margin-top:-50px;
+	border:1px solid lightgrey;
+	color:black;
+}
+.b1:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b2:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b3:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b4:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b5:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b6:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b7:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+.b8:hover
+{
+	background:#f24d5f;
+	color:white;
+}
+
+.b1 p
+{
+	
+	padding:-5px;
+	
+}
+.b2 p
+{
+	
+	padding:-5px;
+}
+.b3 p
+{
+	
+	padding:-5px;
+	
+}
+.b4 p
+{
+	
+	padding:-5px;
+	
+}
+.b5 p
+{
+	
+	padding:-5px;
+	
+}	
+.b6 p
+{
+	
+	padding:-5px;
+	
+}	
+.b7 p
+{
+	
+	padding:-5px;
+	
+}	
+.b8 p
+{
+	
+	padding:-5px;
+	
+}	
+.t1
+{
+	width:230px;
+	height:160px;
+	background:white;
+	margin-left:120px;
+}
+.t1 p
+{
+	margin-left:20px;
+	font-size:25px;
+	color:black;
+}
+.t1 p:hover
+{
+	color:#f24d5f;
+}
+	
+.t2
+{
+	width:230px;
+	height:160px;
+	background:white;
+	margin-left:410px;
+	margin-top:-185px;
+}
+.t2 p
+{
+	margin-left:20px;
+	font-size:25px;
+	color:black;
+}
+.t2 p:hover
+{
+	color:#f24d5f;
+}	
+.t3
+{
+	width:230px;
+	height:160px;
+	background:white;
+	margin-left:730px;
+	margin-top:-185px;
+}
+.t3 p
+{
+	margin-left:20px;
+	font-size:25px;
+	color:black;
+}
+.t3 p:hover
+{
+	color:#f24d5f;
+}		
+.t4
+{
+	width:230px;
+	height:160px;
+	background:white;
+	margin-left:1050px;
+	margin-top:-185px;
+}
+.t4 p
+{
+	margin-left:20px;
+	font-size:25px;
+	color:black;
+}
+.t4 p:hover
+{
+	color:#f24d5f;
+}		
+	
+.t1 h6
+{
+	color:black;
+	font-size:18px;
+	margin-left:20px;
+}
+.t2 h6
+{
+	color:black;
+	font-size:18px;
+	margin-left:20px;
+}
+	
+	.t3 h6
+{
+	color:black;
+	font-size:18px;
+	margin-left:20px;
+}
+	
+	.t4 h6
+{
+	color:black;
+	font-size:18px;
+	margin-left:20px;
+}
+		
+.bx1
+{
+	width:200px;
+	height:30px;
+	border:	1px solid lightgrey;
+}
+	
+.bx1 p
+{
+	font-size:10px;
+	color:black;
+}
+	
+.bx1 p:hover
+{
+	
+	color:black;
+}	
+.bx2
+{
+	width:200px;
+	height:30px;
+	border:	1px solid lightgrey;
+}
+	
+.bx2 p
+{
+	font-size:10px;
+	color:black;
+}
+	
+.bx2 p:hover
+{
+	
+	color:black;
+}		
+	
+.bx3
+{
+	width:200px;
+	height:30px;
+	border:	1px solid lightgrey;
+}
+	
+.bx3 p
+{
+	font-size:10px;
+	color:black;
+}
+	
+.bx3 p:hover
+{
+	
+	color:black;
+}		
+	
+.bx4
+{
+	width:200px;
+	height:30px;
+	border:	1px solid lightgrey;
+}
+	
+.bx4 p
+{
+	font-size:10px;
+	color:black;
+}
+	
+.bx4 p:hover
+{
+	
+	color:black;
+}		
+.d1,.d2,.d3,.d4
+{
+	margin-top:60px;
+}
+.d1
+{
+	margin-left:-20px;
+}
+	
+.l
+{
+	width:111%;
+	height:770px;
+	background:url(../../Wedding/assets/images/footer-couple.png);
+	margin-top:350px;
+	margin-left:-150px;
+	background-repeat:no-repeat;
+	
+}
+
+.l1
+{
+	margin-left:700px;
+	margin-top:370px;
+}
+.last1
+{
+	
+	margin-left:1300px;
+	margin-top:-50px;
+}
+	
+.a 
+	{
+		position:fixed;
+		width:80px;
+		height:50px;
+		bottom:0;
+		right:0;
+		background:url(../../Wedding/assets/images/music/heart-1.png);
+		background-repeat:no-repeat;
+		
+}		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
